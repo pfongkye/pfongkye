@@ -9,6 +9,7 @@
 - I am used to the [Microservice Architecture](https://microservices.io/index.html)
 - I code mainly in [TypeScript](https://www.typescriptlang.org/)
 - I do some [C#](https://docs.microsoft.com/en-us/dotnet/csharp/)
+- I sometimes contribute to some OSS projects [![Code](https://img.shields.io/badge/-code-blue?logo=visual-studio-code&logoColor=white)](https://github.com/microsoft/vscode)
 
 <!--
 **pfongkye/pfongkye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
